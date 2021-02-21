@@ -28,7 +28,7 @@
 [<img align="left" alt="devosip | YouTube" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="philosip | LinkedIn" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
----
+
 ### 📺 YouTube Videos
 
 <!-- YOUTUBE:START -->
@@ -37,7 +37,7 @@
 
 ➡️ [more videos...](https://youtube.com/devosip)
 
----
+
 
 ### 📕 Blog Posts
 
