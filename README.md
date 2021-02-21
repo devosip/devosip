@@ -49,4 +49,4 @@
 [Red Hat]: https://redhat.com
 [website]: https://osip.dev
 [youtube]: https://youtube.com/devosip
-[linkedin]: https://linkedin.com/in/philosip
+[linkedin]: https://www.linkedin.com/in/phil-osip-222b6434/
