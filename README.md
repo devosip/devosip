@@ -7,8 +7,7 @@
 [![Website](https://img.shields.io/website?label=osip.dev&style=for-the-badge&url=https%3A%2F%2Fosip.dev)](https://osip.dev)
 [![Website](https://img.shields.io/website?label=lab.osip.dev&style=for-the-badge&url=https%3A%2F%2Flab.osip.dev)](https://lab.osip.dev)
 
-- :office: I'm currently a Staff Principal Solution Architect at **[Red Hat]**
-- :us: Former Army NCO
+- 🏢 I'm currently a Staff Principal Solution Architect at **[Red Hat]**
 - 🔭 I’m currently working on **Vert.x, Kafka, Dojo7, React, Camel-K**
 - 🌱 I’m currently learning **Typescript**
 - 👯 I’m looking to collaborate on **Near Real Time Toolchains**
