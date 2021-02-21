@@ -8,12 +8,11 @@
 [![Website](https://img.shields.io/website?label=lab.osip.dev&style=for-the-badge&url=https%3A%2F%2Flab.osip.dev)](https://lab.osip.dev)
 
 - 🏢 I'm currently a Staff Principal Solution Architect at **[Red Hat]**
-- 🔭 I’m currently working on **Vert.x, Kafka, Dojo7, React, Camel-K**
-- 🌱 I’m currently learning **Typescript**
-- 👯 I’m looking to collaborate on **Near Real Time Toolchains**
-- 🤝 I’m looking for help with **DoD focused demonstrations**
-- 📫 How to reach me **phil@osip.dev**
-<br />
+- 🔭 Working on **Vert.x, Kafka, Dojo7, React, Camel-K**
+- 🌱 Learning **Typescript**
+- 👯 Looking to collaborate on **Near Real Time Toolchains**
+- 📫 Reach me at **phil@osip.dev**
+
 
 ### Languages:
 <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg alt="java" width="40" height="40"/>
