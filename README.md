@@ -1,6 +1,6 @@
-# <center> Howdy, I'm Phil  <img src=https://raw.githubusercontent.com/devosip/devosip/main/pjo.png alt="pjo" width="40" height="40"/> </center>
+# Howdy, I'm Phil  <img src=https://raw.githubusercontent.com/devosip/devosip/main/pjo.png alt="pjo" width="40" height="40"/>
 
-## <center>A Clean Coder, Software Architect, and DevSecOps practitioner</center>
+## A Clean Coder, Software Architect, and DevSecOps practitioner
 ---
 <p><img src="https://github-readme-stats.vercel.app/api?username=devosip&show_icons=true&locale=en&layout=compact&theme=onedark" alt="devosip" /></p>
 
@@ -28,7 +28,6 @@
 [<img align="left" alt="devosip | YouTube" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="philosip | LinkedIn" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-<br />
 ---
 ### 📺 YouTube Videos
 
